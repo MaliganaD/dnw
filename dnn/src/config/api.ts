@@ -1,4 +1,4 @@
-export const API_BASE_URL = "https://dunu-backend.onrender.com;
+export const API_BASE_URL = "https://dunu-backend.onrender.com";
 export const API_ENDPOINTS = {
   MUSIC: { UPLOAD: `${API_BASE_URL}/upload` },
   PUBLIC: {
