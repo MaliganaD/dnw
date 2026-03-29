@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTISTS = [
-  { id: "6x54M39fgFgXmXvlqWk1nv" }, { id: "3cGcpSU6lBKEV2kMFJb0zK" }, { id: "7xDh9xWg5mER07kIArgw1G" },
+  { id: "2DgOhF0CBUmii7rIbJxWbj" }, { id: "6x54M39fgFgXmXvlqWk1nv" }, { id: "3cGcpSU6lBKEV2kMFJb0zK" }, { id: "7xDh9xWg5mER07kIArgw1G" },
   { id: "6Aj0fNu6zu06zFF90C0PsG" }, { id: "1DXmdKSx3VTfykbW1Pp4N5" }, { id: "3kPtdzzTFXY0AZIR1Iyrtl" },
   { id: "0T0t8hpMZ2zKhdKlWoGAe4" }, { id: "7I9qtOev4WyHkzcjiL4xrD" }, { id: "6ulaTEvw8SMFd3p2s3fXg6" }
 ];
